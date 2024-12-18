@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "302090612753",
+    "project_id": "naarisafety-e390b",
+    "storage_bucket": "naarisafety-e390b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302090612753:android:9574f52050f2354573c1b0",
+        "android_client_info": {
+          "package_name": "com.example.naari_safety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcCdj1I3UuYWJ-vDIU6aJVcD2b0Wi9gjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302090612753:android:141604808c3bd20673c1b0",
+        "android_client_info": {
+          "package_name": "com.example.women_safety_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcCdj1I3UuYWJ-vDIU6aJVcD2b0Wi9gjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302090612753:android:aebca41f20b9a24073c1b0",
+        "android_client_info": {
+          "package_name": "com.example.womensafety_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcCdj1I3UuYWJ-vDIU6aJVcD2b0Wi9gjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
